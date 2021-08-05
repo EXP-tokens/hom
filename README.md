@@ -1,5 +1,5 @@
-# 👋 Krypton
-> Krypton is a free ICO / Crypto template built by [cssninjaStudio](https://cssninja.io).
+# #EXP
+>eXpect Tokens adalah coin crypto yang di harapkan di masa depan.
 
 ![Screenshot](https://media.cssninja.io/products/krypton/product.png "Krypton")
 
